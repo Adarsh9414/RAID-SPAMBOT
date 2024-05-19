@@ -6,11 +6,11 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 START_BUTTON = [
     [
         Button.inline(" 𝐌ᴜsɪᴄ ", "https://t.me/RUHI_X_MUSICBOT"),
-        Button.url("𝐎ᴡɴᴇʀ", "https://t.me/daddy_deviLl_mere")
+        Button.url("𝐎ᴡɴᴇʀ", "https://t.me/its_innocent_boy_2926")
     ],
     [
         Button.url(" 𝐂н𝙰𝙽𝙽𝙴𝙻 ", "https://t.me/THE_FUCKING_BOT_2926"),
-        Button.url(" 𝐒𝚄𝙿𝙿𝙾𝚃  ", "https://t.me/Devilspambotrepo")
+        Button.url(" 𝐒𝚄𝙿𝙿𝙾𝚃  ", "https://t.me/THE_FUCKER_BOTS_2926")
     ],
     [
         Button.url("𝐑ᴇᴘᴏ ", "github.com/nakuldkdhacker0026/RAID-SPAMBOT"),
