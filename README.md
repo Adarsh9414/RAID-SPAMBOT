@@ -1,11 +1,11 @@
-<h1 align="center"><b>[⚡]  DEVIL VIKRAM 𝗕𝗢𝗧  [⚡]</b></h1>
+<h1 align="center"><b>[⚡🖤👺🤖]  devil vikram 𝗕𝗢𝗧  [⚡🖤👺🤖]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/Sits_innocent_boy_2926"><img src="https://graph.org/file/eb514f6d4b35027f8fe0b.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/daddy_devil_mere_2926"><img src="https://graph.org/file/eb514f6d4b35027f8fe0b.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op Dead spam bot. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op Devil vikram spam bot. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
