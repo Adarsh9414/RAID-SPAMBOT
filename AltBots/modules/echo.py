@@ -27,11 +27,11 @@ async def echo(event):
             user_id = reply_msg.sender_id
 
             if user_id in ALTRON:
-                await event.reply("APNE DADA KO GALI DEGA YAHI SANSKAR HAI TERE 💘✨ ")
+                await event.reply("APNO KO KON GAALI DETA HAi 💘✨ ")
             elif user_id == OWNER_ID:
                 await event.reply("KYA BE APNE BAAP KO GALI DEGA.🌿✨.")
             elif user_id in SUDO_USERS:
-                await event.reply("ISKO GALI DEGA JISNE TERI MAA KO CHODA. 💥⚡.")
+                await event.reply("APNA HI BHAI HAI. 💥⚡.")
             else:
                 try:
                     alt = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
