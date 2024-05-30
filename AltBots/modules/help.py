@@ -12,11 +12,11 @@ HELP_BUTTON = [
     ],
     [
       Button.inline(" 𝐄xᴛʀᴀ ", data="extra"),
-      Button.url("𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/@MR_PERFECT_BOSS_01")
+      Button.url("𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/@daddy_deviLl_mere")
     ],
     [
-      Button.url(" 𝐂ʜᴀɴɴᴇʟ ", "https://t.me/THE_FUCKING_BOT_2926"),
-      Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/+ab67YT7QKrYyNDU1")
+      Button.url(" 𝐂ʜᴀɴɴᴇʟ ", "https://t.me/Devilspambotrepo"),
+      Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/Devilspambotrepo")
     ]
   ]
 
@@ -46,7 +46,7 @@ async def help(event):
 extra_msg = f"""
 **» ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ:**
 
-𝗨𝘀𝗲𝗿𝗕𝗼𝘁: **ᴅᴇᴀᴅ sᴘᴀᴍ ʙᴏᴛ ᴄᴍᴅꜱ**
+𝗨𝘀𝗲𝗿𝗕𝗼𝘁: **devil sᴘᴀᴍ ʙᴏᴛ ᴄᴍᴅꜱ**
   1) {hl}ping 
   2) {hl}stop
   3) {hl}sudo <reply to user>  --> Owner Cmd
