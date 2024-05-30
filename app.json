@@ -1,6 +1,6 @@
 {
     "name": "꧁༒★ཌﮩ٨ـﮩﮩ٨ـ ❤️ﮩ٨ـﮩﮩ٨ـ❥ DEVIL VIKRAM ❤️ﮩ٨ـﮩﮩ٨ـﮩ٨★༒꧂.",
-    "logo": "https://graph.org/file/f846c2b04c50af4061f8a.jpg",
+    "logo": "https://telegra.ph/file/b037e8862c1d396384add.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/nakuldkdhacker0026/AXSPAMBOT",
+    "repository": "https://github.com/Adarsh9414/AXSPAMBOT",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
